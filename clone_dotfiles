@@ -1,20 +1,20 @@
 #!/bin/bash
 
 # Config
-cp -r /home/$USER/.config/i3 .
-cp -r /home/$USER/.config/alacritty .
-cp -r /home/$USER/.config/picom .
-cp -r /home/$USER/.config/polybar .
-cp -r /home/$USER/.config/rofi .
+cp -r $HOME/.config/i3 .
+cp -r $HOME/.config/alacritty .
+cp -r $HOME/.config/picom .
+cp -r $HOME/.config/polybar .
+cp -r $HOME/.config/rofi .
 
 # Custom Bin
-cp -r /home/$USER/bin .
+cp -r $HOME/bin .
 
 # Bash
-cp /home/$USER/.bashrc .
+cp $HOME/.bashrc .
 
 # Vim
-cp /home/$USER/.vimrc .
+cp $HOME/.vimrc .
 
 # Xinitrc
-cp /home/$USER/.xinitrc .
+cp $HOME/.xinitrc .
