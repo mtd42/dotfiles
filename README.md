@@ -14,7 +14,7 @@ Status bar `polybar`
 
 Default shell `bash`
 
-Operating system `Archlinux`
+Operating system `archlinux`
 
 ### Screenshot
 
