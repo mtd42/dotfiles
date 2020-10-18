@@ -1,6 +1,6 @@
 ## Environment
 
-Window manager `i3`
+Window manager `i3-gaps`
 
 Terminal `alacritty`
 
