@@ -1,0 +1,3 @@
+#!/bin/bash
+
+pulse-volume-watch.py | xob

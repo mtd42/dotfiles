@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#
+# Help : Use sensors command to see your core name
+# E.g : polybar_cpu_temp "Core 0"
+#
+raw_temp=$(sensors | grep "$1" | cut -d '+' -f2 | grep -o [0-9] | tr -d '[:space:]')
+temperature=$(echo "$raw_temp / 10" | bc)
+
+echo $temperature
+

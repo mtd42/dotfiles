@@ -1,0 +1,4 @@
+#!/bin/bash
+
+fan_speed=$(sensors | grep $1 | cut -d':' -f2 | grep -o '[0-9]' |tr -d '[:space:]')
+echo $fan_speed

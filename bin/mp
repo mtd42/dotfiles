@@ -1,0 +1,3 @@
+#!/bin/bash
+
+nohup mpv --no-keepaspect $1 &>/dev/null &

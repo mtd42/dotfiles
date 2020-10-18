@@ -1,0 +1,15 @@
+corder-radius = 6.0
+
+shadow = true
+shadow-opacity = 0.5
+
+fading = true
+fade-out-step = 0.29
+fade-in-step = 0.29
+fade-delta = 1
+
+backend = "xrender"
+refresh-rate = 60
+log-level = "info"
+vsync = true
+

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+frequency=$(lscpu | grep "CPU MHz" | cut -d':' -f2 | tr -d '[:space:]')
+frequency_ghz=$(echo "scale=3; $frequency/1000" | bc)
+echo $frequency_ghz
+

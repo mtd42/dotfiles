@@ -1,0 +1,7 @@
+#!/bin/bash
+
+hostname=$(hostname)
+user=$(whoami)
+
+echo "ﲵ  %{F#90FF67}$user%{F#FF6767}@%{F#677FFF}$hostname"
+

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# feh --bg-scale $HOME/Desktop/Pictures/mountain_bw.jpg
+# feh --bg-center $HOME/Desktop/Pictures/fuji.jpg
+feh --bg-scale $HOME/desktop/pictures/red_projet_1.png
+
+

@@ -1,0 +1,12 @@
+#!/bin/bash
+
+normal="%{F#E3E3E3}"
+yellow="%{F#EFD81D}"
+red="%{F#D6002F}"
+pink="%{F#FF89B1}"
+green="%{F#8CBF3D}"
+blue="%{F#00B8FF}"
+orange="%{F#FF7E00}"
+blue2="%{F#3CD3FF}"
+
+echo "$yellow$normal + $green$normal + $blue$normal + $red$normal + $orange$normal  + $blue2$normal  = $pink  "
