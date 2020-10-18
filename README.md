@@ -16,9 +16,7 @@ Default shell `bash`
 
 ### Screenshot
 
-![image-20201018115058221](/home/mtd42/.config/Typora/typora-user-images/image-20201018115058221.png)
-
-
+![screenshot](./screenshot.png)
 
 ## Author
 
