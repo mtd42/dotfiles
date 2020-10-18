@@ -14,6 +14,8 @@ Status bar `polybar`
 
 Default shell `bash`
 
+Operating system `Archlinux`
+
 ### Screenshot
 
 ![screenshot](./screenshot.png)
